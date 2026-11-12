@@ -1,1 +1,0 @@
-# Teste-de-aceita-o-Playwright
