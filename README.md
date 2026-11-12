@@ -1,6 +1,6 @@
 # Aceitação · Lista de compras
 
-- **Integrantes:** NOME 1 e NOME 2
+- **Integrantes:** João Paulo de Deus Natividade Oliveira Saraiva
 - **Como rodar:** `npm i && npx playwright install chromium && npx playwright test`
 - **Relatório:** `npx playwright show-report` (pasta `playwright-report/`)
 
